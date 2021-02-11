@@ -18,11 +18,14 @@
 So different configurations are possible e.g. 4mm door panel + 2mm foam, or 3mm door panel + 3mm foam.
 I intentionally undersized the parts touching the panels by 0.3mm to compress the foam and ensure airtightness.
 
-**For those of you without foam gaskets** Use the "(NoFoamGasket)" STLs versions for 3mm thick panels.
+**For those of you without foam gaskets** Use the "(NoFoamGasket)" STLs versions for **3mm thick** panels.
 
 **For a right side mount** Use "mOOngaze_Hinge_RodHanger(RM)_x2.stl" 
 
 **For a left side mount** Use "mOOngaze_Hinge_RodHanger(LM)_x2.stl" 
+
+To insert the LM6UU bearings, I've used a small hammer. It's a tight fit. YMMV.
+
 
 I have tried a 2x 6mm rod version of this concept. 
 The door (mine is 4mm thick) is too heavy and causes the bottom linear bearing to slide away which not only looks bad , but also does not make it easy to slide the door back as you have to lift it just right.
