@@ -18,28 +18,14 @@
 So different configurations are possible e.g. 4mm door panel + 2mm foam, or 3mm door panel + 3mm foam.
 I intentionally undersized the parts touching the panels by 0.3mm to compress the foam and ensure airtightness.
 
-**For those of you without foam gaskets** Use the "(NoFoamGasket)" STLs versions for **3mm thick** panels.
 
-**For a right side mount** Use "mOOngaze_Hinge_RodHanger(RM)_x2.stl" 
+**The STL files are for a right side mount**
 
-**For a left side mount** Use "mOOngaze_Hinge_RodHanger(LM)_x2.stl" 
+**For a left side mount and alternate versions check the CAD files**
 
 To insert the LM6UU bearings, I've used a small hammer. It's a tight fit. YMMV.
 
 
-I have tried a 2x 6mm rod version of this concept. 
-The door (mine is 4mm thick) is too heavy and causes the bottom linear bearing to slide away which not only looks bad , but also does not make it easy to slide the door back as you have to lift it just right.
-Even with 4x 6mm rods the problem persists just a tiny bit. 
-I solved this by securing the bottom-back two rodholders a few millimeters higher to create a slight racking/binding.
-For 250 and 350 sized v2 Vorons it should suffice to subtract or add 50mm to the 6mm rods. The 350 could have increased weight problems though, and has not been tested.
-
-I have not tried double doors with 2 rods on each side. 
-I suspect this would work somewhat better but still have some weight problem. 
-This might be solved by using a longer, or multiple LM6UU bearings as there would be plenty of room to slide them back.
-
-Please let me know on the Voron discord if you tried any variation of my mod. I'd love to see what you come up with!
-
-_mOOngaze#5007_
 
 ![](https://github.com/moongaze/v2.4_Hinge_mod/blob/main/Photos/CADview_02.jpg)
 ![](https://github.com/moongaze/v2.4_Hinge_mod/blob/main/Photos/mOOngaze_Hinge_Closed.jpg)
